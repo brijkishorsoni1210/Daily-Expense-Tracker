@@ -1,2 +1,1 @@
-# Daily-Expense-Tracker
-ABCD
+# Daily-Expense-Track
